@@ -1,0 +1,10 @@
+gitHub 和 git是两个东西
+git是gitHub使用的技术
+
+gitHub 概念：
+
+commit
+
+branch
+
+merge
