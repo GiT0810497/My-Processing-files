@@ -1,0 +1,15 @@
+cd 
+pwd  显示当前位置
+ls  列出文件
+clear  清空窗口
+
+git 命令
+
+git clone + HTTP地址 将文件下载到电脑当前文件夹
+git status 查看状态
+git commit -a -m”增加git commandLine”
+git config—list
+git log
+
+
+:q  退出vim（文字编辑界面）
