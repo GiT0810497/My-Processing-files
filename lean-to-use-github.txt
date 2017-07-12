@@ -12,6 +12,11 @@ merge
 
 在github上修改
 
+git 概念
+workSpace  实际电脑上操作的地方
+stage  可以将电脑上的修改 add 到 stage ，最后将stage上的所有变化合在一起组成一次 commit ，commit到repo上
+repo  保存着所有的commit
+
 
 将电脑上的文件上传到github
 
