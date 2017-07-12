@@ -13,7 +13,7 @@ merge
 在github上修改
 
 
-讲电脑上的文件上传到github
+将电脑上的文件上传到github
 
 1 cd 到目标文件夹
 2 git init
